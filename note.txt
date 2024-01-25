@@ -1,0 +1,12 @@
+1. configured tailwind and react with TS
+npx create-react-app project-name --template typescript
+
+2. npm react router dom 
+wrap app on index.tsx with browser router to provide global access to routing. 
+
+3. npm react-redux @reduxjs/toolkit 
+
+4. npm i yup react-hook-form @types/yup @hookform/resolvers   
+
+yup: => Yup is a schema builder for runtime value parsing and validation. 
+ 
